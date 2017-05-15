@@ -1,0 +1,26 @@
+{
+  "name": "chit-chat",
+  "version": "0.9.0",
+  "description": "A real-time personal and group chat app using sockets (socket.io).",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "chat",
+    "chit-chat",
+    "group",
+    "chat",
+    "messenger",
+    "group",
+    "chat",
+    "socket.io"
+  ],
+  "author": "Siddhesh Nachane",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  }
+}
